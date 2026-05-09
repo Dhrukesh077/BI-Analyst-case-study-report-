@@ -1,7 +1,6 @@
 # ✈️ SkyRoutes Airline Profitability Dashboard
 
-![Dashboard Preview](./assets/1(5).png)
-
+![Dashboard Preview](./1.png)
 ## 📌 Overview
 
 The **SkyRoutes Airline Profitability Dashboard** is a Business Intelligence and Data Analytics project focused on analyzing airline route performance using **SQL** and **Microsoft Excel Dashboarding**.
